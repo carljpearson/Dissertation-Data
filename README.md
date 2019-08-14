@@ -1,5 +1,5 @@
 # Dissertation-Data
-Here is (almost) all the data from my dissertation experiments. This will briefly describe variables in each csv file. These are long format data with each case being a single trial of a participant. 'og' indicates original text output from Qualtrics.
+Here is the data from my dissertation experiments. This will briefly describe variables in each csv file. These are long format data with each case being a single trial of a participant. 'og' indicates original text output from Qualtrics.
 
 ## Experiment 1
 
