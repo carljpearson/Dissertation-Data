@@ -72,11 +72,6 @@ Averaged negative item PANAS scores in the "block".
 
 Averaged positive item PANAS scores in the "block".
 
-
-"Afraid"         "Alert"          "Determined"    "Distressed"     "Enthusiastic"   "Excited"        "Inspired"       "Nervous"       "Scared"         "Upset"          
-
-Individual PANAS items in the "block"
-
 "trust"         
 
 Average trust score in the "block".
