@@ -1,7 +1,7 @@
 # Dissertation-Data
 Here is the data from my dissertation experiments. This will briefly describe variables in each csv file. These are long format data with each case being a single trial of a participant. 'og' indicates original text output from Qualtrics.
 
-There are some differences in structure on each due to the experiment (peeking only in experiment 1) or based on what seemed to be relevant to analyses (trial order was not a largely influential variable and was not calculated in the second dataset). Ask questions here or twitter (@carljpearson) about getting finer detail or data you don't see here already.
+There are some differences in structure on each due to the experiment (peeking only in experiment 1) or based on what seemed to be relevant to analyses (trial order was not a largely influential variable and was not calculated in the second dataset). Ask questions here, email (cjpearso@ncsu.edu), or twitter (@carljpearson) about getting finer detail or data you don't see here already.
 
 ## Experiment 1
 
